@@ -49,9 +49,9 @@
 │ - - ├── 04_ustroystva-kontrolya-napryazheniya
 │ - - ├── 04_emkostnye-izolyatory
 │     │ - - ├── 04.1_izolyator-emkostnoy-ie-10-80x130
-│     │ - - ├── 04.2_izolyator-emkostnoy-ie-10-95x130
-│     │ - - ├── 04.3_izolyator-emkostnoy-ie-20-80x226
-│     │ - - └── 04.4_izolyator-emkostnoy-ie-35-163x320
+│     │ D W ├── 04.2_izolyator-emkostnoy-ie-10-95x130
+│     │ D W ├── 04.3_izolyator-emkostnoy-ie-20-80x226
+│     │ D W └── 04.4_izolyator-emkostnoy-ie-35-163x320
 │ - - ├── 04_bloki-indikatsii-napryazheniya
 │     │ - - ├── 04.1_blok-indikatsii-napryazheniya-evi-1
 │     │ - - ├── 04.2_blok-indikatsii-napryazheniya-evi-2
@@ -119,11 +119,12 @@
 │     │ - - ├── 10.4_truba-kontakta-tk-1600
 │     │ - - ├── 10.5_truba-kontakta-tk-2000
 │     │ - - ├── 10.6_truba-kontakta-tk-2500
-│     │ - - └── 10.7_truba-kontakta-tk-3150
+│     │ - - ├── 10.7_truba-kontakta-tk-3150
+│     │ - - └── 10.8_truba-kontakta-tk-1250-1
 │     └────────────────────────────────────
 ├── 11_KOMPLEKTATSIYA-KRU/
-│ - - ├── 11_shtorochnyy-mekhanizm
-│ - - ├── 11_bystrodeystvuyushchiy-zazemlyayushchiy-razedinitel-zr-10
+│ D W ├── 11_shtorochnyy-mekhanizm
+│ D W ├── 11_bystrodeystvuyushchiy-zazemlyayushchiy-razedinitel-zr-10
 │ - - ├── 11_vykatnye-apparatnye-telezhki
 │     │ - - ├── 11.1_vykatnaya-telezhka-dpc-4-650
 │     │ - - ├── 11.2_vykatnaya-telezhka-dpc-4-800
